@@ -42,7 +42,8 @@ Lejos de tomar la observación como una crítica personal, decidí aplicar una m
 * **[X]** Reflexión sobre feedback radicalmente sincero incluida.
 
 ### 🔗 Enlaces del Proyecto
-* **Repositorio del Blog:** [https://github.com/tu-usuario/blog-tecnico](https://github.com/DamianLeandroF/blog-tecnico)
+* **Repositorio del Blog:** [https://github.com/damianleandrof/blog-tecnico](https://github.com/damianleandrof/blog-tecnico)
+* URL pública del Blog: [https://damianleandrof.github.io/blog-tecnico/](https://damianleandrof.github.io/blog-tecnico/)
 ### 📊 Evidencia de Control de Versiones (Snapshot de Git)
 *Nota: Dado que el repositorio de desarrollo del foro es de carácter privado, se adjunta el registro real del historial de commits de la rama `dev/hph-366` como evidencia del flujo de trabajo:*
 
